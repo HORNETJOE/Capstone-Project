@@ -19,4 +19,4 @@ Create a basic understating on what the game will become and have achievable obj
 ### Target Burndown Chart
 ### 1stWeek Sprint (Backlog)
 ### 2ndWeek Sprint (Backlog)
-### Compare these aspects to your template document
+### Compare these aspects to your template documen
