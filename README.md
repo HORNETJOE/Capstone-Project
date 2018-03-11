@@ -15,4 +15,4 @@ Create a basic understating on what the game will become and have achievable obj
 -	Milestone 2	-
 Design the game to include the basic features and later complex features
 ### rough storyboard of game
-![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
