@@ -17,5 +17,7 @@ Design the game to include the basic features and later complex features
 ### rough storyboard of game
 ![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
 ### Original characters (1983)
+#### Enemy
 ![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_Enemy.PNG)
+#### player
 ![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_player.PNG)
