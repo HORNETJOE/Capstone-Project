@@ -17,5 +17,5 @@ Design the game to include the basic features and later complex features
 ### rough storyboard of game
 ![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
 ###
-![First Gantt]()
-![First Gantt]()
+![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_Enemy.PNG)
+![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_player.PNG)
