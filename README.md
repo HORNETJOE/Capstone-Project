@@ -16,3 +16,6 @@ Create a basic understating on what the game will become and have achievable obj
 Design the game to include the basic features and later complex features
 ### rough storyboard of game
 ![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
+###
+![First Gantt]()
+![First Gantt]()
