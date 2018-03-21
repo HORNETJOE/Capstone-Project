@@ -15,9 +15,9 @@ Create a basic understating on what the game will become and have achievable obj
 -	Milestone 2	-
 Design the game to include the basic features and later complex features
 ### rough storyboard of game
-![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
+![Rough Storyboard](https://github.com/HORNETJOE/Capstone-Project/blob/master/CAPstoryboard.PNG)
 ### Original characters (1983)
 #### Enemy
-![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_Enemy.PNG)
+![Enemy](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_Enemy.PNG)
 #### player
-![First Gantt](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_player.PNG)
+![Player](https://github.com/HORNETJOE/Capstone-Project/blob/master/EA_player.PNG)
